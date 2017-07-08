@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FCIH</string>
+    <string name="studentid">Student_ID</string>
+    <string name="studentname">Student_Name</string>
+    <string name="studentgpa">Student_GPA</string>
+    <string name="credithour">Credit hours</string>
+    <string name="buttonsave">SAVE</string>
+
+    <string name="buttondelete">DELETE</string>
+
+    <string name="buttoncreate">CREATE</string>
+    <string name="buttonupdate">UPDATE</string>
+    <string name="buttonshow">SHOW</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="buttonlogin">Login</string>
+    <string name="logout">logout</string>
+</resources>
